@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Charlie.Virtual.Dining.POS", "Charlie.Virtual.Dining\Charlie.Virtual.Dining.POS.csproj", "{798D4259-9D64-42A6-9A21-F5019FCDA1A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798D4259-9D64-42A6-9A21-F5019FCDA1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798D4259-9D64-42A6-9A21-F5019FCDA1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798D4259-9D64-42A6-9A21-F5019FCDA1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798D4259-9D64-42A6-9A21-F5019FCDA1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
